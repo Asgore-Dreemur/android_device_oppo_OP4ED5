@@ -6,13 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_OP4ED5.mk \
-    $(LOCAL_DIR)/omni_OP4ED5.mk
+    $(LOCAL_DIR)/twrp_OP4ED5.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_OP4ED5-user \
-    lineage_OP4ED5-userdebug \
-    lineage_OP4ED5-eng \
-    omni_OP4ED5-user \
-    omni_OP4ED5-userdebug \
-    omni_OP4ED5-eng
+    twrp_OP4ED5-user \
+    twrp_OP4ED5-userdebug \
+    twrp_OP4ED5-eng \
