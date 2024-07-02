@@ -10,8 +10,6 @@ ro.product.system.name=twrp_OP4ED5
 ro.system.product.cpu.abilist=arm64-v8a
 ro.system.product.cpu.abilist32=
 ro.system.product.cpu.abilist64=arm64-v8a
-ro.system.build.date=Tue Jul  2 01:36:27 UTC 2024
-ro.system.build.date.utc=1719884187
 ro.system.build.fingerprint=OPPO/twrp_OP4ED5/OP4ED5:12/SP2A.220405.004/runner07020136:eng/test-keys
 ro.system.build.id=SP2A.220405.004
 ro.system.build.tags=test-keys
@@ -38,11 +36,8 @@ ro.build.version.release_or_codename=12
 ro.build.version.security_patch=2022-04-05
 ro.build.version.base_os=
 ro.build.version.min_supported_target_sdk=23
-ro.build.date=Tue Jul  2 01:36:27 UTC 2024
-ro.build.date.utc=1719884187
 ro.build.type=eng
 ro.build.user=runner
-ro.build.host=fv-az802-783
 ro.build.tags=test-keys
 ro.build.flavor=twrp_OP4ED5-eng
 # ro.product.cpu.abi and ro.product.cpu.abi2 are obsolete,
@@ -52,7 +47,7 @@ ro.wifi.channels=
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=OP4ED5
 # Do not try to parse description or thumbprint
-ro.build.description=twrp_OP4ED5-eng 12 SP2A.220405.004 eng.runner.20240702.013903 test-keys
+
 # end build properties
 ####################################
 # from variable ADDITIONAL_SYSTEM_PROPERTIES
